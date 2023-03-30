@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAxTcHpa29btxbF9oQIDeE7uARY3CJ7sh+OQVBRwjU9uNXNA/AnpySoxc+fnUJPuivb+vhnatgUzXzQwTnlQ6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_poale\\Desktop\\PracNumberTwoRcis\\C#2Prac\\C2Prac\\C2Prac\\C2Prac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_poale\\.nuget\\packages\\carbon.data.protection\\1.5.0\\carbon.data.protection.1.5.0.nupkg.sha512",
+    "C:\\Users\\gr612_poale\\.nuget\\packages\\carbon.packaging\\1.50.0\\carbon.packaging.1.50.0.nupkg.sha512",
+    "C:\\Users\\gr612_poale\\.nuget\\packages\\carbon.storage\\3.0.1\\carbon.storage.3.0.1.nupkg.sha512",
+    "C:\\Users\\gr612_poale\\.nuget\\packages\\carbon.versioncontrol\\2.6.0\\carbon.versioncontrol.2.6.0.nupkg.sha512",
+    "C:\\Users\\gr612_poale\\.nuget\\packages\\carbon.versioning\\2.0.1\\carbon.versioning.2.0.1.nupkg.sha512",
+    "C:\\Users\\gr612_poale\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512"
+  ],
+  "logs": []
+}
